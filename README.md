@@ -1,12 +1,17 @@
-![Btracker Logo](./logo.jpg)
+<div align="center">
+  
+ ![Btracker Logo](./Logo.jpg)
+ 
+ <h1>  Btracker</h1>
 
-# Btracker
+
 
 [![Website](https://img.shields.io/badge/Website-btracker.xyz-blue)](https://btracker.xyz)
 [![Platform](https://img.shields.io/badge/Platform-Solana-green)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
 
 > Real-Time Indexing of New Tokens on Believe Platform
+</div>
 
 ## Overview
 
